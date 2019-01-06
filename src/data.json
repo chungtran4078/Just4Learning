@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name": "Chung",
+        "tel": "01665364646",
+        "permission": 0
+    }
+    ,{
+        "id" : 3,
+        "name": "Đạt",
+        "tel": "01665364646",
+        "permission": 1
+    }
+    ,{
+        "id" : 5,
+        "name": "Ánh",
+        "tel": "01665364646",
+        "permission": 2
+    }
+    ,{
+        "id" : 7,
+        "name": "Ngọc",
+        "tel": "01665364646",
+        "permission": 0
+    }
+    ,{
+        "id" : 11,
+        "name": "Nghĩa",
+        "tel": "01665364646",
+        "permission": 1
+    }
+]

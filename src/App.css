@@ -1,0 +1,25 @@
+.border-bg {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.125);
+}
+.main {
+  background: #fff;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.example-appear {
+  opacity: 0.01;
+}
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.form-appear {
+  opacity: 0.01;
+}
+.form-appear.form-appear-active {
+  opacity: 1;
+  transition: all .5s linear;
+}
